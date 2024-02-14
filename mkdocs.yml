@@ -1,0 +1,16 @@
+site_name: Código100Cera
+repo_url: https://github.com/microrepar/usando-poetry
+repo_name: Código100Cera/usando-poetry
+edit_uri: tree/master/docs
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/LOGO_CSC_2.ico
+  favicon: assets/LOGO_CSC_2.ico
+
+markdown_extensions: 
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
